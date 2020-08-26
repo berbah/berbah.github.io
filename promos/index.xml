@@ -12,16 +12,7 @@
     
     
     <item>
-      <title>Arisan</title>
-      <link>https://berbah.github.io/promos/arisan/</link>
-      <pubDate>Tue, 18 Aug 2020 21:27:40 +0700</pubDate>
-      
-      <guid>https://berbah.github.io/promos/arisan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pulsa</title>
+      <title>pulsa</title>
       <link>https://berbah.github.io/promos/pulsa/</link>
       <pubDate>Tue, 18 Aug 2020 21:27:40 +0700</pubDate>
       
@@ -30,11 +21,20 @@
     </item>
     
     <item>
-      <title>Sayur</title>
+      <title>sayur</title>
       <link>https://berbah.github.io/promos/sayur/</link>
       <pubDate>Tue, 18 Aug 2020 20:06:02 +0700</pubDate>
       
       <guid>https://berbah.github.io/promos/sayur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arisan</title>
+      <link>https://berbah.github.io/promos/arisan/</link>
+      <pubDate>Tue, 18 Aug 2020 19:36:47 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/promos/arisan/</guid>
       <description></description>
     </item>
     
