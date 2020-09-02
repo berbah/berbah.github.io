@@ -6,10 +6,37 @@
     <description>Recent content in Promos on Mapan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 21:27:40 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 20:32:17 +0700</lastBuildDate>
     
 	<atom:link href="https://berbah.github.io/promos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>arisan</title>
+      <link>https://berbah.github.io/promos/arisan/</link>
+      <pubDate>Wed, 02 Sep 2020 20:32:17 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/promos/arisan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mart</title>
+      <link>https://berbah.github.io/promos/mart/</link>
+      <pubDate>Wed, 02 Sep 2020 20:32:17 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/promos/mart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voucher</title>
+      <link>https://berbah.github.io/promos/voucher/</link>
+      <pubDate>Wed, 02 Sep 2020 20:27:10 +0700</pubDate>
+      
+      <guid>https://berbah.github.io/promos/voucher/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>pulsa</title>
@@ -26,15 +53,6 @@
       <pubDate>Tue, 18 Aug 2020 20:06:02 +0700</pubDate>
       
       <guid>https://berbah.github.io/promos/sayur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>arisan</title>
-      <link>https://berbah.github.io/promos/arisan/</link>
-      <pubDate>Tue, 18 Aug 2020 19:36:47 +0700</pubDate>
-      
-      <guid>https://berbah.github.io/promos/arisan/</guid>
       <description></description>
     </item>
     
